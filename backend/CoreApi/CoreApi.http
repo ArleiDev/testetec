@@ -1,0 +1,6 @@
+@CoreApi_HostAddress = http://localhost:5003
+
+GET {{CoreApi_HostAddress}}/pacientes
+Accept: application/json
+
+###
